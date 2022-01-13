@@ -101,11 +101,21 @@
 
           <div class="p-6">
             <h5 class="text-gray-400 text-xl font-medium mb-2">
-              Recon Whispers
+              recon whispers
             </h5>
             <p class="text-gray-500 text-base mb-4">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              <ul>
+                <li>Business Builder</li>
+                <li>Strategic Mastermind</li>
+                <li>Serial Entrepreneur</li>
+              </ul>
+              <a href="https://www.twitter.com/reconwhispers" target="_blank">
+                <img
+                  class="w-8 h-8 mt-2"
+                  src="../../public/twitter-square.png"
+                  alt=""
+                />
+              </a>
             </p>
           </div>
         </div>
@@ -130,11 +140,14 @@
           </div>
           <div class="p-6">
             <h5 class="text-gray-400 text-xl font-medium mb-2">
-              Kid Dig-A-Hash
+              kid dig-a-hash
             </h5>
             <p class="text-gray-500 text-base mb-4">
-              FinTech Software Developer & Crypto Miner - 25 years in JavaScript
-              - Now working with Dig-A-Hash Holdings
+            <ul>
+              <li>FinTech Software Developer & Crypto Miner</li>
+              <li>25 years in JavaScript</li>
+              <li>Now working with Dig-A-Hash Holdings</li>
+            </ul>
             </p>
           </div>
         </div>
@@ -158,10 +171,13 @@
             />
           </div>
           <div class="p-6">
-            <h5 class="text-gray-400 text-xl font-medium mb-2">Boristotle</h5>
+            <h5 class="text-gray-400 text-xl font-medium mb-2">boristotle</h5>
             <p class="text-gray-500 text-base mb-4">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+            <ul>
+              <li>Software Engineer</li>
+              <li>Real Estate Investor</li>
+              <li>Cinnamon bun enthusiast</li>
+            </ul>
             </p>
           </div>
         </div>
