@@ -44,21 +44,21 @@
           "
         >
           <div class="p-4">
-            <h5 class="text-gray-400 text-xl font-medium mb-10 text-center">
+            <h5 class="text-gray-400 text-xl font-medium mb-10">
               Current Game
             </h5>
             <img
-              class="rounded-full border-2 border-black"
+              class="rounded-xl border-2 border-black"
               src="../../public/brackets-logo.png"
               alt=""
             />
           </div>
 
           <div class="p-6">
-            <h5 class="text-gray-400 text-xl font-medium mb-2 text-center">
+            <h5 class="text-gray-400 text-xl font-medium mb-2">
               Brackets22
             </h5>
-            <p class="text-gray-500 text-base mb-4 text-center">
+            <p class="text-gray-500 text-base mb-4">
             256 seeded NFTs for a chance at the college basketball national championship and a winners take all jackpot in March 2022. 
             If your region and seed wins the national championship, you win the pot. 
             The more they trade the bigger the payout becomes!
@@ -102,10 +102,10 @@
           </div> -->
 
           <div class="p-6">
-            <h5 class="text-gray-400 text-xl font-medium mb-10 text-center">
+            <h5 class="text-gray-400 text-xl font-medium mb-10">
               Future Games
             </h5>
-            <p class="text-gray-500 text-base mb-4 text-center">
+            <p class="text-gray-500 text-base mb-4">
             This is a placeholder for future mini games!
             </p>
           </div>
@@ -131,10 +131,10 @@
           </div> -->
 
           <div class="p-6">
-            <h5 class="text-gray-400 text-xl font-medium mb-10  text-center">
+            <h5 class="text-gray-400 text-xl font-medium mb-10">
               Past Games
             </h5>
-            <p class="text-gray-500 text-base mb-4 text-center">
+            <p class="text-gray-500 text-base mb-4">
                 This is a placeholder for past mini games!
             </p>
           </div>
