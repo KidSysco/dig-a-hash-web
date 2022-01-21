@@ -8,6 +8,7 @@
         <div class="justify-end items-center h-14 gap-x-8 mr-8 hidden sm:flex">
           <a href="#Roadmap" class="whitespace-nowrap text-gray-400 hover:text-gray-100 transition duration-300 ease-in-out">Road Map</a>
           <a href="#Legacy" class="whitespace-nowrap text-gray-400 hover:text-gray-100 transition duration-300 ease-in-out">Dig-A-1st Project</a>
+          <a href="/degenshindig" class="whitespace-nowrap text-gray-400 hover:text-gray-100 transition duration-300 ease-in-out">Degen Shindig</a>
           <a href="#Team" class="whitespace-nowrap text-gray-400 hover:text-gray-100 transition duration-300 ease-in-out">Team</a>
         </div>
       </div>
