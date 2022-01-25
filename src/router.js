@@ -15,8 +15,8 @@ export default new Router({
       component: Home
     },
     {
-      path: '/degenshindig',
-      name: 'degen shindig',
+      path: '/degenshindigs',
+      name: 'degen shindigs',
       component: DegenShindig
     }
   ]

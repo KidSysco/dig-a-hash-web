@@ -172,7 +172,7 @@
           <div class="p-4">
             <img
               class="rounded-full"
-              src="../../public/avatar-boristotle.png"
+              src="../../public/avatar-boris.png"
               alt=""
             />
           </div>

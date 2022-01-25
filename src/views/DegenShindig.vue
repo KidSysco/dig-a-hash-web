@@ -1,27 +1,19 @@
 <template>
   <div>
     <div class="text-center mt-16 text-4xl text-dah-header">
-      Degen Shindig  
         <div class="flex justify-center">
-            <a href="https://www.twitter.com/degenshindig" target="_blank">
-                <img
-                class="w-8 h-8 mt-2"
-                src="../../public/twitter-square.png"
+            <img
+                class="h-52 w-52"
+                src="../../public/degen-shindigs-sm.png"
                 alt=""
-                />
-            </a>
-            <a href="https://discord.gg/s4VXjx4G" target="_blank">
-                <img
-                class="w-10 h-10 mt-2 ml-2"
-                src="../../public/discord.png"
-                alt=""
-                />
-            </a>
+            />
+        </div>
+        <div class="flex justify-center">
+            <p class="text-center mt-3 mb-24 text-xl white-font">
+                Degen Carnival with P2E NFT mini games
+            </p>
         </div>
     </div>
-    <p class="text-center mt-10 mb-15 text-2xl white-font">
-        Degen Carnival with P2E NFT mini games
-    </p>
     <div
       class="
         grid grid-cols-1
@@ -49,7 +41,7 @@
             </h5>
             <img
               class="rounded-xl border-2 border-black"
-              src="../../public/brackets-logo.png"
+              src="../../public/brackets22-nft.png"
               alt=""
             />
           </div>
@@ -63,8 +55,8 @@
             If your region and seed wins the national championship, you win the pot. 
             The more they trade the bigger the payout becomes!
             </p>
-            <!-- <div class="flex justify-center">
-                <a href="https://www.twitter.com/degenshindig" target="_blank">
+            <div class="flex justify-center">
+                <a href="https://www.twitter.com/degenshindigs" target="_blank">
                     <img
                     class="w-8 h-8 mt-2"
                     src="../../public/twitter-square.png"
@@ -78,7 +70,7 @@
                     alt=""
                     />
                 </a>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
@@ -103,10 +95,10 @@
 
           <div class="p-6">
             <h5 class="text-gray-400 text-xl font-medium mb-10">
-              Future Games
+            Upcoming Games
             </h5>
             <p class="text-gray-500 text-base mb-4">
-            This is a placeholder for future mini games!
+            Upcoming games include a <span class="white-font"><b>World Cup 2022 Soccer</b></span> game and more! Use past game NFTs for early access to upcoming games.
             </p>
           </div>
         </div>
@@ -132,10 +124,10 @@
 
           <div class="p-6">
             <h5 class="text-gray-400 text-xl font-medium mb-10">
-              Past Games
+              Previous Games
             </h5>
             <p class="text-gray-500 text-base mb-4">
-                This is a placeholder for past mini games!
+                Brackets22 is our first P2E NFT game, but you can be certain it won't be our last!
             </p>
           </div>
         </div>
