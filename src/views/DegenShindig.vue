@@ -63,13 +63,13 @@
                     alt=""
                     />
                 </a>
-                <a href="https://discord.gg/s4VXjx4G" target="_blank">
+                <!-- <a href="https://discord.gg/s4VXjx4G" target="_blank">
                     <img
                     class="w-10 h-10 mt-2 ml-2"
                     src="../../public/discord.png"
                     alt=""
                     />
-                </a>
+                </a> -->
             </div>
           </div>
         </div>
