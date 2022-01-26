@@ -51,8 +51,8 @@
               Brackets22
             </h5>
             <p class="text-gray-500 text-base mb-4">
-                Heighten your upcoming March Madness experience with this NFT mini game.
-                More details inside our private discord and twitter.
+                Heighten your 2022 March Madness experience with this NFT mini game.
+                More details inside our private discord and twitter.  Hurry before the game ends on April 1st.
 
             </p>
             <div class="flex justify-center">
