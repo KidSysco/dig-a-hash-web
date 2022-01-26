@@ -9,7 +9,7 @@
             />
         </div>
         <div class="flex justify-center">
-            <p class="text-center mt-3 mb-24 text-xl white-font">
+            <p class="text-center mt-3 mb-24 text-xl text-white">
                 Degen Carnival with P2E NFT mini games
             </p>
         </div>
@@ -40,8 +40,8 @@
               Current Game
             </h5>
             <img
-              class="rounded-xl border-2 border-black"
-              src="../../public/brackets22-nft.png"
+              class="img-zoom"
+              src="../../public/brackets-logo.png"
               alt=""
             />
           </div>
@@ -51,9 +51,9 @@
               Brackets22
             </h5>
             <p class="text-gray-500 text-base mb-4">
-            256 seeded NFTs for a chance at the college basketball national championship and a winners take all jackpot in March 2022. 
-            If your region and seed wins the national championship, you win the pot. 
-            The more they trade the bigger the payout becomes!
+                Heighten your upcoming March Madness experience with this NFT mini game.
+                More details inside our private discord and twitter.
+
             </p>
             <div class="flex justify-center">
                 <a href="https://www.twitter.com/degenshindigs" target="_blank">
@@ -98,7 +98,7 @@
             Upcoming Games
             </h5>
             <p class="text-gray-500 text-base mb-4">
-            Upcoming games include a <span class="white-font"><b>World Cup 2022 Soccer</b></span> game and more! Use past game NFTs for early access to upcoming games.
+            Upcoming games include a <span class="text-white"><b>World Cup 2022 Soccer</b></span> game and more! Use past game NFTs for early access to upcoming games.
             </p>
           </div>
         </div>
