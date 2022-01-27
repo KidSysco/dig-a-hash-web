@@ -79,7 +79,8 @@ body {
 .text-dah-header {
   color: rgb(13, 205, 13);
 }
-.white-font {
-  color: rgb(255, 255, 255);
+.img-zoom  {
+  transform: scale(1.5);
 }
+
 </style>
