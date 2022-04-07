@@ -52,26 +52,6 @@
       </div>
     </div>
 
-    <!-- row Legacy -->
-
-    <div
-      id="Legacy"
-      class="grid grid-cols-1 m-auto mt-6 px-4 w-96 sm:max-w-screen-2xl gap-8"
-    >
-      <div class="text-center mt-36 text-4xl text-dah-header">
-        Dig-A-1st Project
-        <p class="text-center mt-10 mb-36 text-2xl white-font">
-          Coming soon...
-        </p>
-      </div>
-
-      <!--
-      <div class="mb-36">
-        <img class="rounded-lg" src="../../public/legacy-logo.gif" alt="" />
-      </div>
-      -->
-    </div>
-
     <!-- row Team -->
     <div class="text-center mt-16 text-4xl text-dah-header" id="Team">
       Team Dig-A-Hash
